@@ -3,16 +3,16 @@
 </p>
 <p align="center">____________________________________________________________________</p>
 
-
 # 👇🏽 Acerca de mí / About Me:
 
 - 🧭 De Colombia / From Colombia
 - 🕸 Programador, Desarrollador Web
-- 💻 Estudiante de ing. sistemas
+- 💻 Estudiante de Ing. Sistemas
+- 🤖 Estudiante de Automatización de Sistemas Mecatrónicos
 
 ## 🔗 Contacto / Contact Me:
 
-- 📧 Email: [jhon92600@gmail.com](jhon92600@gmail.com)
+- 📧 Email: [jhon92600@gmail.com](mailto:jhon92600@gmail.com)
 
 ## Conoce Más Sobre Mí
 
@@ -22,10 +22,19 @@ const about_me = {
     Nacionalidad: "Colombiano",
     Ciudad: "Barrancabermeja",
     Main_Lenguajes: [
-        "java", "Python", "PHP", "C#"
+        "Java", "Python", "PHP", "C#", "Kotlin", "JavaScript"
     ],
     Manejo: [
-        "CSS", "SQL"
+        "HTML", "CSS", "SQL", "TailwindCSS", "Bootstrap"
+    ],
+    Frameworks: [
+        "React", "Next.js", "Node.js", "Laravel"
+    ],
+    Bases_de_Datos: [
+        "MySQL", "PostgreSQL", 
+    ],
+    Otros: [
+        "Arduino", "Raspberry Pi", "Git", "Linux"
     ]
 };
 
