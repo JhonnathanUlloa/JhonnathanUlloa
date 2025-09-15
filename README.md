@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media.tenor.com/QXVs4QWLlzkAAAAC/spider-man.gif" alt="Texto" />
+</p>
+<p align="center">____________________________________________________________________</p>
 
-<!--
-**JhonnathanUlloa/JhonnathanUlloa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👇🏽 Acerca de mí / About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧭 De Colombia / From Colombia
+- 🕸 Programador, Desarrollador Web
+- 💻 Estudiante de ing. sistemas
+
+## 🔗 Contacto / Contact Me:
+
+- 📧 Email: [jhon92600@gmail.com](jhon92600@gmail.com)
+
+## Conoce Más Sobre Mí
+
+```javascript
+const about_me = {
+    Edad: 22,
+    Nacionalidad: "Colombiano",
+    Ciudad: "Barrancabermeja",
+    Main_Lenguajes: [
+        "java", "Python", "PHP", "C#"
+    ],
+    Manejo: [
+        "CSS", "SQL"
+    ]
+};
+
