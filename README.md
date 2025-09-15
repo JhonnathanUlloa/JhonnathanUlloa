@@ -24,14 +24,12 @@ const about_me = {
     Main_Lenguajes: [
         "Java", "Python", "PHP", "C#", "Kotlin", "JavaScript"
     ],
-    Manejo: [
-        "HTML", "CSS", "SQL", "TailwindCSS", "Bootstrap"
     ],
     Frameworks: [
-        "React", "Next.js", "Node.js", "Laravel"
+         "Next.js", "Express", "Laravel", "Bootstrap", "TailwindCSS"
     ],
     Bases_de_Datos: [
-        "MySQL", "PostgreSQL", 
+        "MySQL", "PostgreSQL" 
     ],
     Otros: [
         "Arduino", "Raspberry Pi", "Git", "Linux"
