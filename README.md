@@ -12,7 +12,7 @@
 
 ## 🔗 Contacto / Contact Me:
 
-- 📧 Email: [jhon92600@gmail.com](mailto:jhon92600@gmail.com)
+- 📧 Email: [JhonnathanUlloa.dev@gmail.com](mailto:jhonnathanulloa.dev@gmail.com)
 
 ## Conoce Más Sobre Mí
 
