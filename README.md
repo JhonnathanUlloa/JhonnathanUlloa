@@ -6,7 +6,7 @@
 # 👇🏽 Acerca de mí / About Me:
 
 - 🧭 De Colombia / From Colombia
-- 🕸 Programador, Desarrollador Web
+- 🕸 Programador, Desarrollador full stack
 - 💻 Estudiante de Ing. Sistemas
 - 🤖 Estudiante de Automatización de Sistemas Mecatrónicos
 
