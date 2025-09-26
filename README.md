@@ -18,7 +18,7 @@
 
 ```javascript
 const about_me = {
-    Edad: 22,
+    Edad: 23,
     Nacionalidad: "Colombiano",
     Ciudad: "Barrancabermeja",
     Main_Lenguajes: [
